@@ -1,0 +1,12 @@
+{
+  "name": "PYovchevski/MW-Module-Videos-Playlist",
+  "description": "Video with Playlist",
+  "license": "MIT",
+  "keywords": [
+    "vimeo",
+    "video",
+    "playlist"
+  ],
+  "type": "microweber-module",
+  "target-dir": "videos_playlist"
+}
