@@ -50,7 +50,7 @@
         });
     </script>
 
-    <link href="<?php print modules_url(); ?>videos_streaming/assets/videos_streaming.css" rel="stylesheet" type="text/css"/>
+    <link href="<?php print modules_url(); ?>videos_playlist/assets/videos_streaming.css" rel="stylesheet" type="text/css"/>
 </div>
 
 <div class="mw-videos-streaming-module">

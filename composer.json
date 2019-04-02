@@ -2,6 +2,13 @@
   "name": "PYovchevski/MW-Module-Videos-Playlist",
   "description": "Video with Playlist",
   "license": "MIT",
+  "homepage": "https://www.plumtex.com",
+  "authors": [
+    {
+      "name": "Petko Yovchevski",
+      "email": "pyovchevski@gmail.com"
+    }
+  ],
   "keywords": [
     "vimeo",
     "video",
